@@ -3,7 +3,7 @@
 Partiendo del principio de que este examen esta orientado a administradores y no a desarrolladores, me centrare en organizarlo segun este punto de vista.
 
 Administracion de la plataforma
-- Agregar Htpasswd Identity Manager
+- Agregar un Htpasswd Identity Manager
 - Administracion de Usuarios y Permisos
 	- Agregar usuarios
 		- Asignar cluster-admin a un usuario para dejar de usar kubeadmin
