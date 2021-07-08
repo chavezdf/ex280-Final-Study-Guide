@@ -3,6 +3,7 @@
 Partiendo del principio de que este examen esta orientado a administradores y no a desarrolladores, me centrare en organizarlo segun este punto de vista.
 
 Administracion de la plataforma
+# Configuracion Inicial
 - Agregar un Htpasswd Identity Manager
 - Administracion de Usuarios y Permisos
 	- Agregar usuarios
