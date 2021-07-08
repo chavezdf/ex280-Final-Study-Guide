@@ -2,8 +2,18 @@
 
 Partiendo del principio de que este examen esta orientado a administradores y no a desarrolladores, me centrare en organizarlo segun este punto de vista.
 
-Administracion de la plataforma
-# Configuracion Inicial
+Administracion General de la plataforma
+# Verificacion de Plataforma & Troubleshooting
+- Listar Nodos
+- Listar consumo de recursos en nodos
+- Verificar cada nodo
+- Projectos Importantes a tomar en cuenta y verificar
+- Acceder a Logs de Nodos
+- Acceder en modo Debug a un Nodo
+- Verificar Status de servicio de Kubelet, Cri-o
+- Verificar openvswitch pod
+
+# Configuracion Inicial de la Plataforma
 - Agregar un Htpasswd Identity Manager
 - Administracion de Usuarios y Permisos
 	- Agregar usuarios
@@ -21,7 +31,7 @@ Administracion de la plataforma
 	- Etiquetar Nodos
 	- Establecer Tains si son necesarios
 
-Manejo de Projectos
+# Manejo de Projectos
 - Creacion de proyectos y apps
 - Creacion de Service Accounts
 - Asignacion de Service Accounts a Deployment/DC
