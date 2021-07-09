@@ -1,8 +1,6 @@
-# ex280-Final-Study-Guide
-
 Partiendo del principio de que este examen esta orientado a administradores y no a desarrolladores, me centrare en organizarlo segun este punto de vista.
 
-Administracion General de la plataforma
+# Administracion General de la plataforma
 # Verificacion de Plataforma & Troubleshooting
 - Listar Nodos
 - Listar consumo de recursos en nodos
