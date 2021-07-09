@@ -25,8 +25,8 @@ Administracion General de la plataforma
 		- Asignar permisis de vista para los testers
 - Configuracion de plantilla para proyectos
 	- Agregar Network Policies
-		Ayuda: https://access.redhat.com/documentation/en-us/openshift_container_platform/4.5/html-single/networking/index
-		Seccion: Networking - Tema 9.
+		- Ayuda: https://access.redhat.com/documentation/en-us/openshift_container_platform/4.5/html-single/networking/index
+		- Seccion: Networking - Tema 9.
 	- Agregar LimitRanges
 	- Agregar Quotas
 - Configurar Regiones y Zonas para el Scheduling
