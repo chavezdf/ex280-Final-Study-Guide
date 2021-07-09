@@ -1,7 +1,7 @@
 Partiendo del principio de que este examen esta orientado a administradores y no a desarrolladores, me centrare en organizarlo segun este punto de vista.
 
 # Administracion General de la plataforma
-# Verificacion de Plataforma & Troubleshooting
+# 1. Verificacion de Plataforma & Troubleshooting
 - Listar Nodos
 - Listar consumo de recursos en nodos
 - Verificar cada nodo
@@ -11,7 +11,7 @@ Partiendo del principio de que este examen esta orientado a administradores y no
 - Verificar Status de servicio de Kubelet, Cri-o
 - Verificar openvswitch pod
 
-# Configuracion Inicial de la Plataforma
+# 2. Configuracion Inicial de la Plataforma
 - Agregar un Htpasswd Identity Manager
 - Administracion de Usuarios y Permisos
 	- Agregar usuarios
@@ -31,7 +31,7 @@ Partiendo del principio de que este examen esta orientado a administradores y no
 	- Etiquetar Nodos
 	- Establecer Tains si son necesarios
 
-# Manejo de Projectos
+# 3. Manejo de Projectos
 - Creacion de proyectos y apps
 - Creacion de Service Accounts
 - Asignacion de Service Accounts a Deployment/DC
