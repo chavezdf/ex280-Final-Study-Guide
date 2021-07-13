@@ -16,7 +16,7 @@ Partiendo del principio de que este examen esta orientado a administradores y no
 - Administracion de Usuarios y Permisos
 	- Agregar usuarios
 		- Asignar cluster-admin a un usuario para dejar de usar kubeadmin
-	- Crear grupos
+	- Crear grupos y asignar Permisos
 		- Asignar permisos para creacion de projectos
 		- Quitar al resto los permisos para crear proyectos
 		- Asignar permisos de edicion para los desarrolladores
