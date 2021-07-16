@@ -33,7 +33,7 @@ Partiendo del principio de que este examen esta orientado a administradores y no
 
 # 3. Manejo de Projectos
 - Creacion de proyectos y apps
-- Asignacion de Recursos a nivel de PODS
+- Asignacion de Recursos y limites a nivel de PODS
 - Creacion de Service Accounts
 - Asignacion de Service Accounts a Deployment/DC
 - Creacion de rutas no seguras y seguras
